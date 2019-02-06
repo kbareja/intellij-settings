@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../lucid-schema/src/test/java/com/lucidworks/fusion/schema/SchemaExtensionAndFieldOrderTest2.java [com.lucidworks.fusion.lucid-schema.test]'" />
-    <option name="defaultScopeName" value="File '.../lucid-schema/src/test/java/com/lucidworks/fusion/schema/SchemaExtensionAndFieldOrderTest2.java [com.lucidworks.fusion.lucid-schema.test]'" />
+    <option name="customScope" value="File '.../projects/plugins/sitecore/src/test/java/com/lucidworks/fusion/connector/plugins/sitecore/fetcher/SitecoreFetcherCheckerTest.java [com.lucidworks.connector.plugins.lucidworks.connector.sitecore.test]'" />
+    <option name="defaultScopeName" value="File '.../projects/plugins/sitecore/src/test/java/com/lucidworks/fusion/connector/plugins/sitecore/fetcher/SitecoreFetcherCheckerTest.java [com.lucidworks.connector.plugins.lucidworks.connector.sitecore.test]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../lucid-schema/src/test/java/com/lucidworks/fusion/schema/SchemaExtensionAndFieldOrderTest2.java [com.lucidworks.fusion.lucid-schema.test]'" />
+    <option name="SEARCH_SCOPE" value="File '.../projects/plugins/sitecore/src/test/java/com/lucidworks/fusion/connector/plugins/sitecore/fetcher/SitecoreFetcherCheckerTest.java [com.lucidworks.connector.plugins.lucidworks.connector.sitecore.test]'" />
   </component>
 </application>
