@@ -5,7 +5,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="txt_here_after_build" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="grpc" type="Bash" />
     </extensionMap>
